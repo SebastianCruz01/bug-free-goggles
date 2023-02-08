@@ -1,11 +1,7 @@
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
-
+# STEP BY STEP REGREX
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
-
+Regrex is a way to search for patterns and look for information.
 ## Table of Contents
 
 - [Anchors](#anchors)
@@ -21,13 +17,15 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
 ### Anchors
-
+Help by stating where the expression starts and ends 
+'^'- start
+'$'- ends  
 ### Quantifiers
-
+finds a pattern, then says what happens after the pattern 
+'groo?t' - grooot
 ### OR Operator
-
+Searches for this or that [] |
 ### Character Classes
 
 ### Flags
